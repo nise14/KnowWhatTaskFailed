@@ -1,0 +1,15 @@
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\bin\Debug\net6.0\TaskWhenOneFailed.exe
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\bin\Debug\net6.0\TaskWhenOneFailed.deps.json
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\bin\Debug\net6.0\TaskWhenOneFailed.runtimeconfig.json
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\bin\Debug\net6.0\TaskWhenOneFailed.dll
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\bin\Debug\net6.0\TaskWhenOneFailed.pdb
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\obj\Debug\net6.0\TaskWhenOneFailed.csproj.AssemblyReference.cache
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\obj\Debug\net6.0\TaskWhenOneFailed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\obj\Debug\net6.0\TaskWhenOneFailed.AssemblyInfoInputs.cache
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\obj\Debug\net6.0\TaskWhenOneFailed.AssemblyInfo.cs
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\obj\Debug\net6.0\TaskWhenOneFailed.csproj.CoreCompileInputs.cache
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\obj\Debug\net6.0\TaskWhenOneFailed.dll
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\obj\Debug\net6.0\refint\TaskWhenOneFailed.dll
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\obj\Debug\net6.0\TaskWhenOneFailed.pdb
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\obj\Debug\net6.0\TaskWhenOneFailed.genruntimeconfig.cache
+C:\Repository\TaskWhenOneFailed\TaskWhenOneFailed\obj\Debug\net6.0\ref\TaskWhenOneFailed.dll
